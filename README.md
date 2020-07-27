@@ -1,3 +1,5 @@
+A server-less and highly scalable blog application where users can sign in and post their blogs and anyone can view, comment and like the blogs using ReactJS, GraphQL, AWS Amplify, AWS AppSync, Amazon Cognito and DynamoDB.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
